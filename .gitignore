@@ -1,0 +1,13 @@
+# 忽略bin和obj文件夹
+bin/
+obj/
+
+# 忽略所有.csproj文件
+*.csproj
+
+# 忽略所有.sln文件  
+*.sln
+
+# # 忽略所有.cs文件
+# *.cs
+
